@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 .navbar-container {
   height: 100px;
   width: 85%;
@@ -38,4 +40,96 @@
 
 .register-btn {
   text-decoration: none;
+}
+
+.homescreen-section {
+  text-decoration: none;
+  height: 100vh;
+  background: linear-gradient(
+      289.71deg,
+      #ffffff 3.77%,
+      rgba(255, 255, 255, 0) 51.43%
+    ),
+    #edf4f7;
+}
+
+.homescreen-section .title {
+  position: absolute;
+  width: 929px;
+  height: 205px;
+  left: 8%;
+  top: 308px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 72px;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  color: #000000;
+  text-shadow: 2px 4px 5px #ffffff, -2px -4px 5px rgba(0, 0, 0, 0.25);
+}
+
+.homescreen-section .subtitle {
+  position: absolute;
+  width: 599px;
+  height: 70px;
+  left: 9%;
+  top: 513px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 160%;
+  /* or 35px */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.homescreen-section .therapy {
+  position: absolute;
+  width: 600px;
+  height: 318.83px;
+  right: 20%;
+  top: 398px;
+  background: url(../Assests/therapy.png);
+}
+
+.homescreen-section .book-btn {
+  position: absolute;
+  padding: 20px;
+  height: 30px;
+  vertical-align: baseline;
+  text-align: center;
+  text-decoration: none;
+  left: 8%;
+  font-size: 20px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 160%;
+  top: 607px;
+  background: #56c1e3;
+  box-shadow: 3px 2px 7px 3px #ffffff, -2px -2px 7px 2px #cccccc;
+  border-radius: 50px;
+}
+
+.homescreen-section .chat-now {
+  background: #fff;
+  color: #777;
+  font-weight: normal;
+  left: 20%;
+}
+
+.down-arrow {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  background: url(../Assests/down.gif);
 }
