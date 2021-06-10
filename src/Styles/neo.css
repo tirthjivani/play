@@ -1,0 +1,8 @@
+.neo-bottom-right {
+  background: #56c1e3;
+  font-weight: bolder;
+  color: #ffffff;
+  box-shadow: 2px 4px 5px 3px #ffffff, -2px -4px 5px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 50px;
+  padding: 15px 25px;
+}

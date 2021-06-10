@@ -1,0 +1,41 @@
+.navbar-container {
+  height: 100px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 30px;
+  background: transparent;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 70px;
+}
+
+.nav-links {
+  margin-left: 30px;
+}
+
+.nav-link {
+  text-decoration: none;
+  margin-right: 25px;
+  color: #555;
+}
+
+.nav-link:hover {
+  color: #000;
+}
+
+.signup {
+  display: flex;
+}
+
+.signin-btn {
+  margin-right: 20px;
+}
+
+.register-btn {
+  text-decoration: none;
+}
