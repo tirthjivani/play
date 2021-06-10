@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/play/static/css/main.303ebd94.chunk.css",
+    "main.js": "/play/static/js/main.55d2eeda.chunk.js",
+    "main.js.map": "/play/static/js/main.55d2eeda.chunk.js.map",
+    "runtime-main.js": "/play/static/js/runtime-main.73cedc22.js",
+    "runtime-main.js.map": "/play/static/js/runtime-main.73cedc22.js.map",
+    "static/js/2.63994638.chunk.js": "/play/static/js/2.63994638.chunk.js",
+    "static/js/2.63994638.chunk.js.map": "/play/static/js/2.63994638.chunk.js.map",
+    "static/js/3.33a7c4e6.chunk.js": "/play/static/js/3.33a7c4e6.chunk.js",
+    "static/js/3.33a7c4e6.chunk.js.map": "/play/static/js/3.33a7c4e6.chunk.js.map",
+    "index.html": "/play/index.html",
+    "static/css/main.303ebd94.chunk.css.map": "/play/static/css/main.303ebd94.chunk.css.map",
+    "static/js/2.63994638.chunk.js.LICENSE.txt": "/play/static/js/2.63994638.chunk.js.LICENSE.txt",
+    "static/media/homescreen.css": "/play/static/media/therapy.73fd0264.png",
+    "static/media/man.d79f31e7.png": "/play/static/media/man.d79f31e7.png",
+    "static/media/talk.195f6bf4.png": "/play/static/media/talk.195f6bf4.png",
+    "static/media/test.1aa01f35.png": "/play/static/media/test.1aa01f35.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73cedc22.js",
+    "static/js/2.63994638.chunk.js",
+    "static/css/main.303ebd94.chunk.css",
+    "static/js/main.55d2eeda.chunk.js"
+  ]
+}
